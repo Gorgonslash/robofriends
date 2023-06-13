@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&family=Palette+Mosaic&family=Tilt+Prism&display=swap");
+
+h1 {
+    font-family: 'Tilt Prism', cursive;
+    color: black;
+    font-weight: 200;
+  }
+
+h2 {
+    font-family: 'Tilt Prism', cursive;
+    color: black;
+}
